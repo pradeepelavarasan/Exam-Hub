@@ -2,9 +2,11 @@
 
 > One link. Every exam resource. Organised by the topic your child is actually studying.
 
-📹 **Watch the demo video:** https://youtu.be/_pcaVPZMsR8
+📹 **Watch the demo video:** [https://youtu.be/_pcaVPZMsR8](https://youtu.be/acNqWs1eMJg)
 
 > **Note on privacy:** The live app link, HTML source, and all linked study files are not included in this repository. The project contains real school documents and student-relevant content that is sensitive in nature — sharing it publicly would not be appropriate. This README exists purely to document the product, the problem it solved,  the technical approach to encourage others to solve similar problems.
+
+This is inspired by LLM Knowledge Bases idea from Andrej Karpathy - https://x.com/karpathy/status/2039805659525644595?s=20
 
 ---
 
@@ -36,8 +38,10 @@ That question was being asked constantly in the parents' WhatsApp group. No one 
 
 The hub was shared with the Grade 4 parents' WhatsApp group and saw strong organic adoption within days:
 
-- **~160 unique users** across devices
-- **~500 sessions** in 1 week
+- **200+ unique users** across devices
+- **~1000 sessions** in less than 1 week
+<img width="594" height="159" alt="image" src="https://github.com/user-attachments/assets/e86aed69-4faa-491e-aa80-29810f7c978a" />
+
 
 Here's a sample of what parents shared in the group:
 
