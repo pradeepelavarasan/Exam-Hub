@@ -39,8 +39,8 @@ That question was being asked constantly in the parents' WhatsApp group. No one 
 The hub was shared with the Grade 4 parents' WhatsApp group and saw strong organic adoption within days:
 
 - **200+ unique users** across devices
-- **~1000 sessions** in less than 1 week
-<img width="594" height="159" alt="image" src="https://github.com/user-attachments/assets/e86aed69-4faa-491e-aa80-29810f7c978a" />
+- **1700+ sessions** in 2 week
+<img width="311" height="91" alt="image" src="https://github.com/user-attachments/assets/85b8d5a6-44ec-482f-a256-9acd7ecb6d2a" />
 
 
 Here's a sample of what parents shared in the group:
